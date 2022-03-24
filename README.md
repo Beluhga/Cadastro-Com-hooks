@@ -1,6 +1,5 @@
 # Cadastro-Com-hooks
 
-# Nome do Projeto 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Beluhga/Cadastro-Com-hooks/blob/main/LICENSE) 
 
 # Sobre o projeto
@@ -32,8 +31,8 @@ Pré-requisitos: npm / yarn
 # clonar repositório
 git clone https://github.com/Beluhga/Cadastro-Com-hooks
 
-# entrar na pasta do projeto front end web
-cd rncrud
+# entrar na pasta do projeto Mobile
+cd Cadastro-com-hooks
 
 # instalar dependências
 npm install
