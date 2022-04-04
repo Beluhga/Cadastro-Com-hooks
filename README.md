@@ -6,7 +6,7 @@
 
 Cadastro Com Hooks é uma aplicação mobile construída durante a Web-aula da Udemy com o professor Mayk Brito.
 
-A aplicação consiste em cadastro de novos usuarios, alteração e remoção. Usando React-Native, Redux e Crud!!!
+Usando o Redux para tira a responsabilidade de cada um dos componentes de armazenar os estados, deixando tudo centralizado para ter um CRUD mais completo
 
 ## Layout mobile
 
